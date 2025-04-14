@@ -1,0 +1,11 @@
+#khra{
+  color: pink;
+}
+.alert {
+  width: 100%;
+  text-align: center;
+}
+
+.mt-3 {
+  margin-top: 1rem !important;
+}
